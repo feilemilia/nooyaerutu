@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahmeghieb.nim-viet.org/sitemap.xml
